@@ -17,7 +17,7 @@ Converted into multiple `.txt` files.
 
 ## 📂 Folder Structure
 
-''' multi-document-embedding-search-engine-with-caching-assignment/
+multi-document-embedding-search-engine-with-caching-assignment/
 │
 ├── src/
 │   ├── api.py
