@@ -3,20 +3,21 @@ AI Engineer Intern Assignment – CodeAtRandom AI
 
 # 📌 Overview
 
-This repository implements a semantic search engine over 100–200 documents, supporting:
+'''This repository implements a semantic search engine over 100–200 documents, supporting:
 ⚡ Fast embedding generation
 💾 Local caching (no re-computation)
 🔍 Vector search using FAISS / Cosine Similarity
 🌐 FastAPI retrieval API
-🧠 Ranking explanation (keyword overlap & scores)
+🧠 Ranking explanation (keyword overlap & scores)'''
+
 A clean, modular, production-ready design.
 Dataset used: **Text Document Classification Dataset (Kaggle)**  
 Converted into multiple `.txt` files.
----
+
 
 ## 📂 Folder Structure
 
-multi-document-embedding-search-engine-with-caching-assignment/
+''' multi-document-embedding-search-engine-with-caching-assignment/
 │
 ├── src/
 │   ├── api.py
@@ -31,4 +32,4 @@ multi-document-embedding-search-engine-with-caching-assignment/
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
-└── .gitignore
+└── .gitignore '''
