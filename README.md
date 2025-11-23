@@ -3,7 +3,7 @@ AI Engineer Intern Assignment – CodeAtRandom AI
 
 # 📌 Overview
 
-''' This repository implements a semantic search engine over 100–200 documents, supporting:
+``` This repository implements a semantic search engine over 100–200 documents, supporting:
 ⚡ Fast embedding generation
 💾 Local caching (no re-computation)
 🔍 Vector search using FAISS / Cosine Similarity
