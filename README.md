@@ -1,7 +1,8 @@
 # Multi-Document Embedding Search Engine with Caching  
 AI Engineer Intern Assignment – CodeAtRandom AI
 
-## 📌 Overview
+# 📌 Overview
+
 This repository implements a semantic search engine over 100–200 documents, supporting:
 ⚡ Fast embedding generation
 💾 Local caching (no re-computation)
